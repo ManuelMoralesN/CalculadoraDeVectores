@@ -16,7 +16,7 @@ void Vector3::menu() {
 
     do {
         cout << "\nMenu Vector3:" << endl;
-        cout << "1. Leer valores" << endl;
+        cout << "1. Ingresa tus valores 1" << endl;
         cout << "2. Sumar" << endl;
         cout << "3. Restar" << endl;
         cout << "4. Producto Punto" << endl;

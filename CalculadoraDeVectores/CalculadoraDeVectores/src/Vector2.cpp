@@ -16,7 +16,7 @@ void Vector2::menu() {
 
     do {
         cout << "\nMenu Vector2:" << endl;
-        cout << "1. Leer valores" << endl;
+        cout << "1. Ingresa tus valores 1" << endl;
         cout << "2. Sumar" << endl;
         cout << "3. Restar" << endl;
         cout << "4. Producto Punto" << endl;
@@ -25,7 +25,7 @@ void Vector2::menu() {
         cout << "7. Multiplicar por escalar" << endl;
         cout << "8. Imprimir" << endl;
         cout << "9. Volver al menu principal" << endl;
-        cout << "Elija una opción: ";
+        cout << "Elija una opcion: ";
         cin >> opcion;
 
         switch (opcion) {
